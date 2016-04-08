@@ -1,4 +1,4 @@
-ZookeeperServerMain类
+ZookeeperServerMain类:
     protected void initializeAndRun(String[] args) throws ConfigException, IOException {
         try {
             ManagedUtil.registerLog4jMBeans();
